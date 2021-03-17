@@ -2,7 +2,7 @@ appstream-glib
 gdk-pixbuf
 glib
 gpgme
-gnupg1
+gnupg2
 libarchive
 libsoup
 libxml2
